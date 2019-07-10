@@ -1,6 +1,7 @@
 # Meditation-App
 ### Developed with Vanilla JS, HTML, and CSS
-#### Simple Meditation App with background video that counts down from 10 minutes, 5, and 2.  App background sound and video can be changed from a beach theme to a rain theme with the sun and rain buttons.  
+#### A simple meditation app with background video that counts down from 10 minutes, 5 minutes, or 2 minutes. 
+#### The background sound and video can be changed from a beach theme to a rain theme with the sun and rain buttons. 
 
 
 https://jimbob6272.github.io/Meditation-App/
